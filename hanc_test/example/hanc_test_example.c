@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #include "add.h"
-#include "hanc_test.h"
+#include "../hanc_test.h"
 
 HANC_TEST_MAIN({
   printf("Hello hanc\n");
